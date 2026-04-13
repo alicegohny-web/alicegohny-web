@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,25,5,30&height=200&section=header&text=Alice%20Gohny&fontSize=90&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,25,5,30&height=200&section=header&text=Madlin%20Al_Rubaie&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
 
