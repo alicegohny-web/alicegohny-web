@@ -1,28 +1,44 @@
-class RafnixG:
+<div align="center">
 
-    def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.position = 'Python Software Developer'
-        self.web = 'https://rafnixg.dev'
-        self.links = 'https://links.rafnixg.dev'
-        self.blog = 'https://blog.rafnixg.dev'
-        self.cv = 'https://resume.rafnixg.dev'
-        self.twitter = '@rafnixg'
-        self.code = {
-            'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
-        }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+# 👋 Welcome to my Digital Universe
 
-    def __str__(self):
-        return f'{self.name} | {self.position}'
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT+Student+%26+Problem+Solver;C%23+%26+C%2B%2B+Developer;Database+Enthusiast+(SQL%2FPL);Future+Software+Engineer" alt="Typing Animation" />
 
+---
 
-if __name__ == '__main__':
-    me = RafnixG()
-    print(me)
+### 💻 Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,sql,html,css,visualstudio,vscode&perline=4" />
+</p>
+
+</div>
+
+### 🚀 About Me
+- 🎓 **Academic Path:** 2nd Year IT Student, building a strong foundation in software logic.
+- 🧩 **Focus:** Currently deep-diving into **Problem Solving** and **C#** development.
+- 💾 **Databases:** Experienced in **SQL** and **PL/SQL** for structured data management.
+- ⚡ **Motto:** Code is easy, logic is where the magic happens.
+
+---
+
+### 📊 My Coding Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+### 🛠 Tools I Use
+- **IDEs:** Visual Studio, VS Code, Code::Blocks.
+- **Problem Solving:** Actively practicing logical thinking and algorithmic efficiency.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
