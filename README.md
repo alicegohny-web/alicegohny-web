@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,25,5,30&height=200&section=header&text=Madlin%20Al_Rubaie&fontSize=90&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,25,5,30&height=200&section=header&text=Madlin-Alrubaie&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
 
@@ -31,11 +31,11 @@
 
 ### 📊 My Coding Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madlin Al_Rubaie-web&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madlin-Alrubaie&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madlin Al_Rubaie-web&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madlin-Alrubaie&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
