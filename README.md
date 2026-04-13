@@ -1,11 +1,8 @@
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,25,5,30&height=200&section=header&text=Madlin-Alrubaie&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
-
 <div align="center">
-
 
 # 👋 Welcome to my Digital Universe
 
